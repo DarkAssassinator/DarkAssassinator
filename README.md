@@ -2,7 +2,7 @@
 
 I am Yann, A full stack developer from China <img src="https://flagcdn.com/h20/cn.png" width="20"/>, currently living in ShenZhen and Dongguan.<br/>
 Interested in making work easier by creating tools.<br/>
-I think that any work that can be scripted or streamlined can be and shoule be replaced by tools.
+I think that any work that can be scripted or streamlined can be and should be replaced by tools.
 
 
 - 🔭 I’m currently working on JAVA, Shell, CI and AIOps.
