@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Yann. Welcome to My Page.</h1>
 
-I am Yann, A full stack developer from China <img src="https://flagcdn.com/h20/cn.png" width="20"/>, currently living in ShenZhen and Dongguan.<br/>
+I am Yann, A full stack developer from China <img src="https://flagcdn.com/h20/cn.png" width="20"/>, currently living in ShenZhen.<br/>
 Interested in making work easier by creating tools.<br/>
 I think that any work that can be scripted or streamlined can be and should be replaced by tools.
 
