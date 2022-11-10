@@ -6,7 +6,7 @@ I think that any work that can be scripted or streamlined can be and should be r
 
 
 - 🔭 I’m currently working on JAVA, Shell, CI and AIOps.
-- 🌱 I’m currently learning big data and project management.
+- 🌱 I’m currently learning big data and DevOps.
 - 📫 How to reach me: xiaoqiang.yann@gmail.com
 
 </pre> 
